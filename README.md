@@ -1,5 +1,5 @@
 # alphat-new-generation
-Forked version of LineAlphat JS #DEV #22/12/2017 #18PM
+Forked version of LineAlphat JS #DEV #04/08/2018
 <br>LineAlphat -> https://github.com/alfathdirk/LineAlphatJS<br><br>Status: Very Good
 
 <hr>
@@ -23,7 +23,7 @@ How to run bot for the first time ?
 
 IMPORTANT
 ------
-**PLEASE DO `npm i` FOR THIS UPDATE -> #27/10/2017**
+**PLEASE DO `npm i` FOR THIS UPDATE -> #04/08/2018**
 
 Still work :construction_worker:
 ----
